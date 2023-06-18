@@ -14,10 +14,18 @@ const Navbar = () => {
     {/* menu */}
     <div>
       <ul className='hidden md:flex'>
-        <li>About Me</li>
-        <li>Portfolio</li>
-        <li>Contact</li>
-        <li>Resume</li>
+        <li>
+          <a href='#about'>About Me</a>
+        </li>
+        <li>
+          <a href="#portfolio">Portfolio</a>
+        </li>
+        <li>
+          <a href="#contact">Contact</a>
+        </li>
+        <li>
+          Resume {/*future dev: add updated resume link*/}
+        </li>
       </ul>
     </div>
 

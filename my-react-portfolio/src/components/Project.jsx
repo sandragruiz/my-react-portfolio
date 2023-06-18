@@ -6,7 +6,7 @@ import Quickdecks from '../assets/images/quickdecks.png'
 
 const Projects = () => {
     return (
-        <div name='projects' className='bg-[#75132f] text-gray-300 w-full md:h-screen'>
+        <div id='portfolio' name='projects' className='bg-[#75132f] text-gray-300 w-full md:h-screen'>
             <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             
                 <div className='pb-8'>
