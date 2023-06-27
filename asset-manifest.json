@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.0f85596a.css",
+    "main.js": "/my-react-portfolio/static/js/main.443ff4a2.js",
+    "static/media/JATEpwa.gif": "/my-react-portfolio/static/media/JATEpwa.b42d095e85f9652e6d7d.gif",
+    "static/media/foodie-fetch-screenshot.png": "/my-react-portfolio/static/media/foodie-fetch-screenshot.e12936078c31cbb7129a.png",
+    "static/media/third-party-apis-planner.gif": "/my-react-portfolio/static/media/third-party-apis-planner.5b3f62cdcc4cafa34102.gif",
+    "static/media/quickdecks.png": "/my-react-portfolio/static/media/quickdecks.4d0ad3b98618035a586c.png",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.0f85596a.css.map": "/my-react-portfolio/static/css/main.0f85596a.css.map",
+    "main.443ff4a2.js.map": "/my-react-portfolio/static/js/main.443ff4a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f85596a.css",
+    "static/js/main.443ff4a2.js"
+  ]
+}
