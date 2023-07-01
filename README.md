@@ -4,7 +4,7 @@ A portfolio of my recent projects, including links to the repositories and deplo
 
 Link to portfolio site: https://sandragruiz.github.io/my-react-portfolio/
 
-![](./my-react-portfolio/src/assets/images/portfolio-screenshot.png)
+![](./src/assets/images/portfolio-screenshot.png)
 
 ## License
 
