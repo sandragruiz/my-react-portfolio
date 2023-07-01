@@ -4,6 +4,19 @@ import Jate from '../assets/images/JATEpwa.gif'
 import Planner from '../assets/images/third-party-apis-planner.gif'
 import Quickdecks from '../assets/images/quickdecks.png'
 
+/* (for future development, use components for project cards)
+const projects = [
+    {
+        title: "Third-Party API",
+        image: Foodie,
+        deploy-link: ,
+        github-link: ,
+    },
+    {
+
+    }
+]*/
+
 const Projects = () => {
     return (
         <div id='portfolio' name='projects' className='bg-[#75132f] text-gray-300 w-full md:h-screen'>
